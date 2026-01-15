@@ -71,7 +71,7 @@ const Footer = () => {
                     label: "Email",
                   },
                   {
-                    href: "https://discord.com/users/developer.shourav1",
+                    href: "https://discord.com/users/bold0163",
                     icon: <BsDiscord className="w-5 h-5" />,
                     label: "Discord",
                   },
