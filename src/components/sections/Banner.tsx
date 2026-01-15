@@ -39,10 +39,10 @@ const Banner = () => {
             </div>
 
             <h1 className="text-4xl md:text-5xl lg:text-6xl font-bold mb-4 leading-tight">
-              <span className="block">Shourav</span>
-              <span className="text-gradient bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
-                Rajbongshi
-              </span>
+              <span className="block">David More</span>
+              {/* <span className="text-gradient bg-gradient-to-r from-indigo-600 to-purple-600 bg-clip-text text-transparent">
+                More
+              </span> */}
             </h1>
 
             <h2 className="text-2xl md:text-3xl text-gray-700 dark:text-gray-300 mb-6 font-medium">
@@ -93,7 +93,7 @@ const Banner = () => {
 
             <div className="flex justify-center md:justify-start gap-6 relative z-10">
               <Link
-                href="https://wa.me/+8801932376388"
+                href="https://wa.me/+380972553798"
                 target="_blank"
                 className="social-cta"
                 aria-label="WhatsApp Number"
@@ -101,7 +101,7 @@ const Banner = () => {
                 <FaWhatsapp className="w-6 h-6" />
               </Link>
               <Link
-                href="https://github.com/developer-shourav"
+                href="https://github.com/An4Dev"
                 target="_blank"
                 className="social-cta"
                 aria-label="GitHub profile"
@@ -109,7 +109,7 @@ const Banner = () => {
                 <Github className="w-6 h-6" />
               </Link>
               <Link
-                href="https://www.linkedin.com/in/developer-shourav/"
+                href="https://www.linkedin.com/in/developer-David/"
                 target="_blank"
                 className="social-cta"
                 aria-label="LinkedIn profile"
@@ -133,7 +133,7 @@ const Banner = () => {
               <div className="absolute top-0 left-0 w-full h-full border-3 border-white dark:border-gray-800 rounded-lg transform -rotate-1 shadow-2xl overflow-hidden">
                 <Image
                   src={DeveloperImg}
-                  alt="Shourav Rajbongshi - Front-End & Full Stack Developer"
+                  alt="David More - Front-End & Full Stack Developer"
                   layout="fill"
                   sizes="500px"
                   objectFit="cover"

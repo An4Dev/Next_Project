@@ -43,8 +43,8 @@ export const projects: Project[] = [
     image: '/img/project/CarSure-Front.png',
     links: {
       live: 'https://car-sure.vercel.app/',
-      frontend: 'https://github.com/developer-shourav/CarSure-Frontend',
-      backend: 'https://github.com/developer-shourav/CarSure-Backend',
+      frontend: 'https://github.com/An4Dev/CarSure-Frontend',
+      backend: 'https://github.com/An4Dev/CarSure-Backend',
     },
   },
   {
@@ -68,8 +68,8 @@ export const projects: Project[] = [
     image: '/img/project/DancingGuru.png',
     links: {
       live: 'https://dancing-guru.web.app',
-      frontend: 'https://github.com/developer-shourav/Dancing-Guru-Clint-Side',
-      backend: 'https://github.com/developer-shourav/Dancing-Guru-Server',
+      frontend: 'https://github.com/An4Dev/Dancing-Guru-Clint-Side',
+      backend: 'https://github.com/An4Dev/Dancing-Guru-Server',
     },
   },
   {
@@ -90,8 +90,8 @@ export const projects: Project[] = [
     image: '/img/project/queenToy.png',
     links: {
       live: 'https://queen-toy.web.app',
-      frontend: 'https://github.com/developer-shourav/Queen-Toy-Client',
-      backend: 'https://github.com/developer-shourav/Queen-Toy-Server',
+      frontend: 'https://github.com/An4Dev/Queen-Toy-Client',
+      backend: 'https://github.com/An4Dev/Queen-Toy-Server',
     },
   },
 ];

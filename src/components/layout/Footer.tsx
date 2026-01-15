@@ -15,9 +15,9 @@ const Footer = () => {
       </div>
 
       {/* Decorative elements */}
-      <div className="absolute top-0 left-0 right-0 h-12 flex justify-center">
+      {/* <div className="absolute top-0 left-0 right-0 h-12 flex justify-center">
         <div className="w-32 h-full bg-gradient-to-r from-indigo-500 to-purple-600 dark:from-indigo-600 dark:to-purple-700 rounded-b-3xl shadow-lg"></div>
-      </div>
+      </div> */}
 
       <div className="container mx-auto px-4 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-10">
@@ -51,22 +51,22 @@ const Footer = () => {
               <div className="flex gap-3">
                 {[
                   {
-                    href: "https://github.com/developer-shourav",
+                    href: "https://github.com/An4Dev",
                     icon: <Github className="w-5 h-5" />,
                     label: "GitHub",
                   },
                   {
-                    href: "https://www.linkedin.com/in/developer-shourav/",
+                    href: "https://www.linkedin.com/in/developer-David/",
                     icon: <Linkedin className="w-5 h-5" />,
                     label: "LinkedIn",
                   },
                   {
-                    href: "https://wa.me/+8801932376388",
+                    href: "https://wa.me/+380972553798",
                     icon: <BsWhatsapp className="w-5 h-5" />,
                     label: "WhatsApp",
                   },
                   {
-                    href: "mailto:developer@gmail.com",
+                    href: "mailto:traceyrun2@gmail.com",
                     icon: <Mail className="w-5 h-5" />,
                     label: "Email",
                   },
@@ -76,7 +76,7 @@ const Footer = () => {
                     label: "Discord",
                   },
                   {
-                    href: "tg://user?id=Developer_Shourav",
+                    href: "https://t.me/free_12151996",
                     icon: <BsTelegram className="w-5 h-5" />,
                     label: "Telegram",
                   },
@@ -138,7 +138,7 @@ const Footer = () => {
                     Email
                   </span>
                   <span className="block text-gray-700 dark:text-gray-200">
-                    developer@gmail.com
+                    traceyrun2@gmail.com
                   </span>
                 </div>
               </li>
@@ -151,7 +151,7 @@ const Footer = () => {
                     Phone
                   </span>
                   <span className="block text-gray-700 dark:text-gray-200">
-                    +880192356784
+                    +380972553798
                   </span>
                 </div>
               </li>
@@ -164,7 +164,7 @@ const Footer = () => {
                     Location
                   </span>
                   <span className="block text-gray-700 dark:text-gray-200">
-                    Nawabganj, Dhaka, BD
+                    	Kyiv , Kyiv City
                   </span>
                 </div>
               </li>
@@ -216,7 +216,7 @@ const Footer = () => {
         {/* Copyright */}
         <div className="border-t border-gray-100 dark:border-gray-800 mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 dark:text-gray-400 text-sm">
-            &copy; {currentYear} Shourav Rajbongshi. All rights reserved.
+            &copy; {currentYear} David More. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 flex gap-6">
             <span

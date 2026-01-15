@@ -56,7 +56,7 @@ const ContactInfo: React.FC = () => {
                 href="mailto:developer.shourav1@gmail.com"
                 className="text-muted-foreground group-hover:text-primary transition-colors"
               >
-                developer.shourav1@gmail.com
+                traceyrun2@gmail.com
               </a>
               <button
                 onClick={() =>
@@ -80,13 +80,13 @@ const ContactInfo: React.FC = () => {
             <h4 className="font-medium text-foreground">Phone</h4>
             <div className="flex items-center gap-2">
               <a
-                href="tel:+8801932376388"
+                href="tel:+380972553798"
                 className="text-muted-foreground group-hover:text-primary transition-colors"
               >
-                +880 192376388
+                +380 972553798
               </a>
               <button
-                onClick={() => copyToClipboard("+8801932376388", "Phone")}
+                onClick={() => copyToClipboard("+380972553798", "Phone")}
                 className="opacity-0 group-hover:opacity-100 transition-opacity text-muted-foreground hover:text-primary z-10"
                 title="Copy phone number"
               >
@@ -104,9 +104,9 @@ const ContactInfo: React.FC = () => {
           <div>
             <h4 className="font-medium text-foreground">WhatsApp</h4>
             <div className="flex items-center gap-2">
-              <span className="text-muted-foreground">+880 192376388</span>
+              <span className="text-muted-foreground">+380 972553798</span>
               <a
-                href="https://wa.me/+8801932376388"
+                href="https://wa.me/+380972553798"
                 target="_blank"
                 className="opacity-0 group-hover:opacity-100 transition-opacity underline text-primary text-sm font-medium"
                 title="Send a message on WhatsApp"

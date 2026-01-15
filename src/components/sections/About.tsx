@@ -21,7 +21,7 @@ const About = () => {
 
             <div className="space-y-4 text-gray-600 dark:text-gray-400">
               <p>
-                I am Shourav Rajbongshi, a passionate Front-End Developer
+                I am David More, a passionate Front-End Developer
                 specializing in React, Next.js, and modern JavaScript
                 frameworks. With expertise in building responsive,
                 high-performance web applications, I bring creativity and
